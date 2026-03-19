@@ -57,3 +57,28 @@ article {
     gap: 20px;
     color:rgb(1, 84, 14);
 }
+.botao1, .botao2, .botao3 {
+    flex: 1;
+    padding: 20px;
+}
+.botao1{
+    background-color: beige;
+    width: 380px;
+    height: 380px;
+    border-radius: 10%;
+}
+.botao2{
+    background-color: beige;
+    width: 380px;
+    height: 380px;
+    border-radius: 10%;
+}
+.botao3{
+    background-color: beige;
+    width: 380px;
+    height: 380px;
+    border-radius: 10%;
+}
+.icones{
+    width: 200px;
+}
