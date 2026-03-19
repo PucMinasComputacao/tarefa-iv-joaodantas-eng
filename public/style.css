@@ -1,0 +1,59 @@
+body{ 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('fundo-campo2.jpg');
+}
+.LOGO{
+    width: 500px;
+    display: inline;
+    
+}
+div header{
+    background-color: rgb(1, 84, 14);
+    color: beige;
+    font-weight: bolder;
+    padding: 5px 20px;
+    margin: 0;
+    padding: 0;
+    position: relative
+}
+.caixa-pesquisa{
+    float: right;
+    padding: 85px 200px;
+    display: inline;
+    position: absolute;
+    
+}
+div aside{
+    float: left;
+    background-color: rgb(1, 84, 14);
+    font-weight: bold;
+    text-align: left;
+    width: 280px;
+    height: 700px;
+    color: beige;
+    font-size: x-large;
+    
+}
+div nav{
+    background-color: yellow;
+}
+div main .titulo{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 400px;
+    color: beige;
+}
+article {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-left: 350px;
+    margin-right: 10px;
+    gap: 20px;
+    color:rgb(1, 84, 14);
+}
